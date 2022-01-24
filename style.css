@@ -31,3 +31,27 @@ input,select,button{
 input:focus , select:focus{
     box-shadow: inset 1px 1px 3px rgba(0,0,0,0.3);
 }
+
+header{
+    width: 100%;
+    background-color: #5aba8d;
+    padding: 20px;
+
+}
+
+header h1{
+    color: #fff;
+    font-size: 3em;
+    text-align: center;
+    cursor: pointer;
+}
+
+footer{
+    width: 100%;
+    background-color: #5aba8d;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+    font-size: 1em;
+
+}
